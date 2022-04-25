@@ -2,7 +2,7 @@
 
 <h4>Como instalarla ? </h4>
 
-Requisito previo tener instalado mongoDB (https://www.mongodb.com/es) y npm (https://www.npmjs.com/)
+Requisito previo tener instalado mongoDB (https://www.mongodb.com/es) y node (https://nodejs.org/es/)
 
 1- Clonar repositorio main
 
