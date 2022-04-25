@@ -1,0 +1,36 @@
+.welcome {
+  margin-top: 50px;
+  display: flex;
+}
+.welcomeTitle {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-weight: 600;
+  color: #5a826f;
+  font-size: 180px;
+  text-align: left;
+  flex: 4;
+}
+.welcomeImg {
+  flex: 4;
+  width: 450px;
+}
+
+@media (max-width: 1024px) {
+  .welcome {
+    margin-top: 200px;
+  }
+  .welcomeTitle {
+    font-size: 100px;
+  }
+  .welcomeImg {
+    width: 200px;
+  }
+}
+@media (max-width: 550px) {
+  .welcomeTitle {
+    font-size: 50px;
+  }
+  .welcomeImg {
+    width: 100px;
+  }
+}

@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+.single {
+  display: flex;
+  background-color: black;
+}
